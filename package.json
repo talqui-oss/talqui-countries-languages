@@ -1,15 +1,15 @@
 {
   "version": "0.5.0",
-  "name": "crisp-countries-languages",
-  "description": "Toolkit to manage countries and languages",
-  "author": "Julien Le Coupanec <julien@crisp.chat>",
+  "name": "chatapi-countries-languages",
+  "description": "",
+  "author": "João Vitor Miranda <jv.mirandas@gmail.com>",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/crisp-dev/crisp-countries-languages"
+    "url": "git://github.com/chatapi-io/chatapi-countries-languages"
   },
   "bugs": {
-    "url": "https://github.com/crisp-dev/crisp-countries-languages/issues"
+    "url": "https://github.com/chatapi-io/chatapi-countries-languages/issues"
   },
   "keywords": [
     "country",
